@@ -7,8 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GeneratorApplication {
 
 	public static void main(String[] args) {
-		System.out.println("wwwwww");
 		SpringApplication.run(GeneratorApplication.class, args);
 	}
-
 }
